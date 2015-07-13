@@ -1,2 +1,2 @@
 # gotools
-Some useful wheels for golang!
+Some useful wheels for golang.
